@@ -1,0 +1,25 @@
+area,city,latitude,longitude,monthly_demand_index,existing_business_locations,monthly_sales_units,estimated_unserved_demand
+Nashik Road,Nashik,19.9975,73.7898,820,2,610,630
+College Road,Nashik,20.0059,73.763,1150,5,900,675
+Panchavati,Nashik,20.011,73.79,930,3,690,645
+Gangapur Road,Nashik,20.0063,73.745,1080,4,810,700
+Satpur,Nashik,19.9768,73.741,760,2,500,570
+Ambad,Nashik,19.951,73.732,690,1,430,595
+Indira Nagar,Nashik,19.997,73.799,980,2,760,790
+Cidco,Nashik,19.963,73.765,880,2,650,690
+Deolali,Nashik,19.895,73.833,540,1,350,445
+Makhmalabad,Nashik,20.035,73.77,610,1,390,515
+Thane West,Thane,19.2183,72.9781,1320,6,1010,750
+Kopri,Thane,19.194,72.975,940,3,700,655
+Ghodbunder Road,Thane,19.265,72.97,1050,2,780,860
+Wagle Estate,Thane,19.201,72.963,860,4,620,480
+Mira Road,Thane,19.2952,72.8544,1180,2,900,990
+Kalyan,Thane,19.2437,73.1355,970,2,720,780
+Dombivli,Thane,19.2183,73.0867,910,2,670,720
+Vartak Nagar,Thane,19.215,72.951,790,2,580,600
+Baner,Pune,18.559,73.7868,1270,5,940,795
+Hinjawadi,Pune,18.5912,73.738,1400,4,1080,1020
+Kothrud,Pune,18.5074,73.8077,1110,5,830,635
+Hadapsar,Pune,18.5089,73.926,1210,3,890,925
+Wakad,Pune,18.599,73.762,1160,3,850,875
+Kharadi,Pune,18.5515,73.9348,1350,4,990,970
